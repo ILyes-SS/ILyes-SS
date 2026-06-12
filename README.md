@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyes-ss&label=Profile%20views&color=0e75b6&style=flat" alt="ilyes-ss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ILyes-SS" alt="ilyes-ss" /></a> </p>
-
 - ✨ My goal is to craft web experiences that are not only functional but also delightful to use.
 
 - 💬 Ask me about **react, tailwind and gsap**
